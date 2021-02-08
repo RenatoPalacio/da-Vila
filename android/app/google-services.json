@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "357510311183",
+    "firebase_url": "https://comprador-do-dia.firebaseio.com",
+    "project_id": "comprador-do-dia",
+    "storage_bucket": "comprador-do-dia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357510311183:android:f899a47990ce627199a27a",
+        "android_client_info": {
+          "package_name": "com.renatopalacio.compradordodia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357510311183-4j2cuqb00uqgl1a1tkimoaeaha82i8li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.renatopalacio.compradordodia",
+            "certificate_hash": "7e61d409c865d8c1ce28269c0f44df41d3eab801"
+          }
+        },
+        {
+          "client_id": "357510311183-dkcal7mssns7jr0gt2avfjs1ieorn2s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Gm8QTfhOM3_LRwJMa6f-jqnobR-oCeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357510311183-dkcal7mssns7jr0gt2avfjs1ieorn2s2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357510311183-i489fbcdl09lt6jubkvrs4rqu62l419g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.renatopalacio.compradordodia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
